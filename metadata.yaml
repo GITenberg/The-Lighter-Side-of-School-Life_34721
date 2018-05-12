@@ -1,0 +1,39 @@
+_repo: The-Lighter-Side-of-School-Life_34721
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Baumer, Lewis Christopher Edward
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '31813'
+    url: http://www.gutenberg.org/2009/agents/31813
+covers:
+- cover_type: archival
+  image_path: 34721-h/images/coverx.jpg
+creator:
+  author:
+    agent_name: Hay, Ian
+    aliases:
+    - Beith, Ian Hay
+    - Beith, John Hay
+    birthdate: 1876
+    deathdate: 1952
+    gutenberg_agent_id: '4304'
+    url: http://www.gutenberg.org/2009/agents/4304
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2010-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- England'
+- !lcc 'LA'
+tableOfContents: The headmaster -- The housemaster -- Some form-masters -- Boys --
+  The pursuit of knowledge -- School stories -- "My people" -- The father of the man.
+title: The Lighter Side of School Life
+url: http://www.gutenberg.org/ebooks/34721
